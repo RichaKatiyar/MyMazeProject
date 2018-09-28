@@ -1,0 +1,16 @@
+org\maze\exception\FieldIsOutOfMazeBoundsException.class
+org\maze\position\ExplorerPosition$1.class
+org\maze\test\com\App.class
+org\maze\impl\MazeImpl.class
+org\maze\interfaces\Explorer.class
+org\maze\model\MazeCoordinate.class
+org\maze\model\HeadingDirectionClockWise.class
+org\maze\model\MazeStructure.class
+org\maze\main\MazeMain.class
+org\maze\exception\MovementBlockedException.class
+org\maze\interfaces\Maze.class
+org\maze\impl\Breadcrumb.class
+org\maze\impl\MazeExplorer.class
+org\maze\interfaces\AutomaticExplorer.class
+org\maze\impl\AutomaticMazeExplorer.class
+org\maze\position\ExplorerPosition.class

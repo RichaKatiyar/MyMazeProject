@@ -1,0 +1,286 @@
+[2018-09-27 13:07:50,123] INFO     0[main] - org.maze.main.MazeMain.main(MazeMain.java:26) - The example maze in file Maze.txt should be initialized correctly
+[2018-09-27 13:08:20,605]DEBUG     0[main] - org.maze.main.MazeMain.main(MazeMain.java:26) - The example maze in file Maze.txt should be initialized correctly
+[2018-09-27 16:08:55,101]DEBUG     0[main] - org.maze.main.MazeMain.main(MazeMain.java:23) - The example maze in file Maze.txt should be initialized correctly
+[2018-09-27 16:08:55,195] INFO    94[main] - org.maze.main.MazeMain.main(MazeMain.java:28) - mazeStr: 
+XXXXXXXXXXXXXXX
+X             X
+X XXXXXXXXXXX X
+X XS        X X
+X XXXXXXXXX X X
+X XXXXXXXXX X X
+X XXXX      X X
+X XXXX XXXX X X
+X XXXX XXXX X X
+X X    XXXXXX X
+X X XXXXXXXXX X
+X X XXXXXXXXX X
+X X         X X
+X XXXXXXXXX   X
+XFXXXXXXXXXXXXX
+
+[2018-09-27 16:08:55,371] INFO   270[main] - org.maze.main.MazeMain.main(MazeMain.java:34) - Maze start location: MazeCoordinate{x=3, y=3}
+[2018-09-27 16:08:55,371] INFO   270[main] - org.maze.main.MazeMain.main(MazeMain.java:35) - No of walls: 149
+[2018-09-27 16:08:55,372] INFO   271[main] - org.maze.main.MazeMain.main(MazeMain.java:36) - No of empty spaces: 74
+[2018-09-27 16:08:55,372] INFO   271[main] - org.maze.main.MazeMain.main(MazeMain.java:37) - Maze Exit Location: MazeCoordinate{x=1, y=14}
+[2018-09-27 16:12:39,663]DEBUG     0[main] - org.maze.main.MazeMain.main(MazeMain.java:23) - The example maze in file Maze.txt should be initialized correctly
+[2018-09-27 16:17:41,740]DEBUG     0[main] - org.maze.main.MazeMain.main(MazeMain.java:23) - The example maze in file Maze.txt should be initialized correctly
+[2018-09-27 16:18:00,389]DEBUG     0[main] - org.maze.main.MazeMain.main(MazeMain.java:23) - The example maze in file Maze.txt should be initialized correctly
+[2018-09-27 16:18:13,691]DEBUG     0[main] - org.maze.main.MazeMain.main(MazeMain.java:23) - The example maze in file Maze.txt should be initialized correctly
+[2018-09-27 16:20:26,030]DEBUG     0[main] - org.maze.main.MazeMain.main(MazeMain.java:23) - The example maze in file Maze.txt should be initialized correctly
+[2018-09-27 16:20:38,813]DEBUG     0[main] - org.maze.main.MazeMain.main(MazeMain.java:23) - The example maze in file Maze.txt should be initialized correctly
+[2018-09-27 16:21:19,729]DEBUG     1[main] - org.maze.main.MazeMain.main(MazeMain.java:23) - The example maze in file Maze.txt should be initialized correctly
+[2018-09-27 16:21:37,277]DEBUG     0[main] - org.maze.main.MazeMain.main(MazeMain.java:23) - The example maze in file Maze.txt should be initialized correctly
+[2018-09-27 16:22:31,319]DEBUG     1[main] - org.maze.main.MazeMain.main(MazeMain.java:23) - The example maze in file Maze.txt should be initialized correctly
+[2018-09-27 16:24:44,754]DEBUG     0[main] - org.maze.main.MazeMain.main(MazeMain.java:23) - The example maze in file Maze.txt should be initialized correctly
+[2018-09-27 16:25:23,173]DEBUG     0[main] - org.maze.main.MazeMain.main(MazeMain.java:23) - The example maze in file Maze.txt should be initialized correctly
+[2018-09-27 16:26:05,269]DEBUG     0[main] - org.maze.main.MazeMain.main(MazeMain.java:23) - The example maze in file Maze.txt should be initialized correctly
+[2018-09-27 16:28:25,133]DEBUG     0[main] - org.maze.main.MazeMain.main(MazeMain.java:23) - The example maze in file Maze.txt should be initialized correctly
+[2018-09-27 16:28:49,978]DEBUG     0[main] - org.maze.main.MazeMain.main(MazeMain.java:23) - The example maze in file Maze.txt should be initialized correctly
+[2018-09-27 16:32:07,875]DEBUG     0[main] - org.maze.main.MazeMain.main(MazeMain.java:23) - The example maze in file Maze.txt should be initialized correctly
+[2018-09-27 16:33:11,995]DEBUG     0[main] - org.maze.main.MazeMain.main(MazeMain.java:23) - The example maze in file Maze.txt should be initialized correctly
+[2018-09-27 16:34:47,921]DEBUG     0[main] - org.maze.main.MazeMain.main(MazeMain.java:23) - The example maze in file Maze.txt should be initialized correctly
+[2018-09-27 16:36:01,334]DEBUG     0[main] - org.maze.main.MazeMain.main(MazeMain.java:23) - The example maze in file Maze.txt should be initialized correctly
+[2018-09-27 16:36:16,251]DEBUG     0[main] - org.maze.main.MazeMain.main(MazeMain.java:23) - The example maze in file Maze.txt should be initialized correctly
+[2018-09-27 16:36:16,255] INFO     4[main] - org.maze.main.MazeMain.main(MazeMain.java:28) - mazeStr: 
+XXXXXXXXXXXXXXX
+X             X
+X XXXXXXXXXXX X
+X XS        X X
+X XXXXXXXXX X X
+X XXXXXXXXX X X
+X XXXX      X X
+X XXXX XXXX X X
+X XXXX XXXX X X
+X X    XXXXXX X
+X X XXXXXXXXX X
+X X XXXXXXXXX X
+X X         X X
+X XXXXXXXXX   X
+XFXXXXXXXXXXXXX
+
+[2018-09-27 16:36:16,380] INFO   129[main] - org.maze.main.MazeMain.main(MazeMain.java:33) - Maze start location: MazeCoordinate{x=3, y=3}
+[2018-09-27 16:36:16,380] INFO   129[main] - org.maze.main.MazeMain.main(MazeMain.java:34) - No of walls: 149
+[2018-09-27 16:36:16,381] INFO   130[main] - org.maze.main.MazeMain.main(MazeMain.java:35) - No of empty spaces: 74
+[2018-09-27 16:36:16,381] INFO   130[main] - org.maze.main.MazeMain.main(MazeMain.java:36) - Maze Exit Location: MazeCoordinate{x=1, y=14}
+[2018-09-27 16:36:16,387] INFO   136[main] - org.maze.main.MazeMain.main(MazeMain.java:45) - What is at the coordinate(4,3): SPACE
+[2018-09-27 16:36:28,929]DEBUG     0[main] - org.maze.main.MazeMain.main(MazeMain.java:23) - The example maze in file Maze.txt should be initialized correctly
+[2018-09-27 16:36:28,934] INFO     5[main] - org.maze.main.MazeMain.main(MazeMain.java:28) - mazeStr: 
+XXXXXXXXXXXXXXX
+X             X
+X XXXXXXXXXXX X
+X XS        X X
+X XXXXXXXXX X X
+X XXXXXXXXX X X
+X XXXX      X X
+X XXXX XXXX X X
+X XXXX XXXX X X
+X X    XXXXXX X
+X X XXXXXXXXX X
+X X XXXXXXXXX X
+X X         X X
+X XXXXXXXXX   X
+XFXXXXXXXXXXXXX
+
+[2018-09-27 16:36:29,039] INFO   110[main] - org.maze.main.MazeMain.main(MazeMain.java:33) - Maze start location: MazeCoordinate{x=3, y=3}
+[2018-09-27 16:36:29,039] INFO   110[main] - org.maze.main.MazeMain.main(MazeMain.java:34) - No of walls: 149
+[2018-09-27 16:36:29,040] INFO   111[main] - org.maze.main.MazeMain.main(MazeMain.java:35) - No of empty spaces: 74
+[2018-09-27 16:36:29,040] INFO   111[main] - org.maze.main.MazeMain.main(MazeMain.java:36) - Maze Exit Location: MazeCoordinate{x=1, y=14}
+[2018-09-27 16:36:29,045] INFO   116[main] - org.maze.main.MazeMain.main(MazeMain.java:45) - What is at the coordinate(4,3): SPACE
+[2018-09-27 16:36:52,320]DEBUG     0[main] - org.maze.main.MazeMain.main(MazeMain.java:23) - The example maze in file Maze.txt should be initialized correctly
+[2018-09-27 16:36:52,326] INFO     6[main] - org.maze.main.MazeMain.main(MazeMain.java:28) - mazeStr: 
+XXXXXXXXXXXXXXX
+X             X
+X XXXXXXXXXXX X
+X XS        X X
+X XXXXXXXXX X X
+X XXXXXXXXX X X
+X XXXX      X X
+X XXXX XXXX X X
+X XXXX XXXX X X
+X X    XXXXXX X
+X X XXXXXXXXX X
+X X XXXXXXXXX X
+X X         X X
+X XXXXXXXXX   X
+XFXXXXXXXXXXXXX
+
+[2018-09-27 16:36:52,503] INFO   183[main] - org.maze.main.MazeMain.main(MazeMain.java:33) - Maze start location: MazeCoordinate{x=3, y=3}
+[2018-09-27 16:36:52,503] INFO   183[main] - org.maze.main.MazeMain.main(MazeMain.java:34) - No of walls: 149
+[2018-09-27 16:36:52,504] INFO   184[main] - org.maze.main.MazeMain.main(MazeMain.java:35) - No of empty spaces: 74
+[2018-09-27 16:36:52,504] INFO   184[main] - org.maze.main.MazeMain.main(MazeMain.java:36) - Maze Exit Location: MazeCoordinate{x=1, y=14}
+[2018-09-27 16:36:52,511] INFO   191[main] - org.maze.main.MazeMain.main(MazeMain.java:45) - What is at the coordinate(4,3): SPACE
+[2018-09-27 16:37:17,059]DEBUG     0[main] - org.maze.main.MazeMain.main(MazeMain.java:23) - The example maze in file Maze.txt should be initialized correctly
+[2018-09-27 16:37:17,074] INFO    15[main] - org.maze.main.MazeMain.main(MazeMain.java:28) - mazeStr: 
+XXXXXXXXXXXXXXX
+X             X
+X XXXXXXXXXXX X
+X XS        X X
+X XXXXXXXXX X X
+X XXXXXXXXX X X
+X XXXX      X X
+X XXXX XXXX X X
+X XXXX XXXX X X
+X X    XXXXXX X
+X X XXXXXXXXX X
+X X XXXXXXXXX X
+X X         X X
+X XXXXXXXXX   X
+XFXXXXXXXXXXXXX
+
+[2018-09-27 16:37:17,204] INFO   145[main] - org.maze.main.MazeMain.main(MazeMain.java:33) - Maze start location: MazeCoordinate{x=3, y=3}
+[2018-09-27 16:37:17,205] INFO   146[main] - org.maze.main.MazeMain.main(MazeMain.java:34) - No of walls: 149
+[2018-09-27 16:37:17,205] INFO   146[main] - org.maze.main.MazeMain.main(MazeMain.java:35) - No of empty spaces: 74
+[2018-09-27 16:37:17,206] INFO   147[main] - org.maze.main.MazeMain.main(MazeMain.java:36) - Maze Exit Location: MazeCoordinate{x=1, y=14}
+[2018-09-27 16:37:17,214] INFO   155[main] - org.maze.main.MazeMain.main(MazeMain.java:45) - What is at the coordinate(4,3): SPACE
+[2018-09-27 16:56:07,864]DEBUG     0[main] - org.maze.main.MazeMain.main(MazeMain.java:23) - The example maze in file Maze.txt should be initialized correctly
+[2018-09-27 16:56:07,878] INFO    14[main] - org.maze.main.MazeMain.main(MazeMain.java:32) - mazeStr: 
+XXXXXXXXXXXXXXX
+X             X
+X XXXXXXXXXXX X
+X XS        X X
+X XXXXXXXXX X X
+X XXXXXXXXX X X
+X XXXX      X X
+X XXXX XXXX X X
+X XXXX XXXX X X
+X X    XXXXXX X
+X X XXXXXXXXX X
+X X XXXXXXXXX X
+X X         X X
+X XXXXXXXXX   X
+XFXXXXXXXXXXXXX
+
+[2018-09-27 16:56:07,986] INFO   122[main] - org.maze.main.MazeMain.main(MazeMain.java:40) - Maze start location: MazeCoordinate{x=3, y=3}
+[2018-09-27 16:56:07,986] INFO   122[main] - org.maze.main.MazeMain.main(MazeMain.java:41) - No of walls: 149
+[2018-09-27 16:56:07,986] INFO   122[main] - org.maze.main.MazeMain.main(MazeMain.java:42) - No of empty spaces: 74
+[2018-09-27 16:56:07,987] INFO   123[main] - org.maze.main.MazeMain.main(MazeMain.java:43) - Maze Exit Location: MazeCoordinate{x=1, y=14}
+[2018-09-27 16:56:07,994] INFO   130[main] - org.maze.main.MazeMain.main(MazeMain.java:52) - What is at the coordinate(4,3): SPACE
+[2018-09-27 16:56:08,031] INFO   167[main] - org.maze.main.MazeMain.main(MazeMain.java:64) - What is at the location: START
+[2018-09-27 16:56:08,033] INFO   169[main] - org.maze.main.MazeMain.main(MazeMain.java:66) - What is at the newlocation: START
+[2018-09-27 16:56:08,051] INFO   187[main] - org.maze.main.MazeMain.main(MazeMain.java:94) - movementSize: 34
+[2018-09-27 16:56:45,186]DEBUG     0[main] - org.maze.main.MazeMain.main(MazeMain.java:23) - The example maze in file Maze.txt should be initialized correctly
+[2018-09-27 16:56:45,190] INFO     4[main] - org.maze.main.MazeMain.main(MazeMain.java:32) - mazeStr: 
+XXXXXXXXXXXXXXX
+X             X
+X XXXXXXXXXXX X
+X XS        X X
+X XXXXXXXXX X X
+X XXXXXXXXX X X
+X XXXX      X X
+X XXXX XXXX X X
+X XXXX XXXX X X
+X X    XXXXXX X
+X X XXXXXXXXX X
+X X XXXXXXXXX X
+X X         X X
+X XXXXXXXXX   X
+XFXXXXXXXXXXXXX
+
+[2018-09-27 16:56:45,286] INFO   100[main] - org.maze.main.MazeMain.main(MazeMain.java:40) - Maze start location: MazeCoordinate{x=3, y=3}
+[2018-09-27 16:56:45,286] INFO   100[main] - org.maze.main.MazeMain.main(MazeMain.java:41) - No of walls: 149
+[2018-09-27 16:56:45,287] INFO   101[main] - org.maze.main.MazeMain.main(MazeMain.java:42) - No of empty spaces: 74
+[2018-09-27 16:56:45,287] INFO   101[main] - org.maze.main.MazeMain.main(MazeMain.java:43) - Maze Exit Location: MazeCoordinate{x=1, y=14}
+[2018-09-27 16:56:45,292] INFO   106[main] - org.maze.main.MazeMain.main(MazeMain.java:52) - What is at the coordinate(4,3): SPACE
+[2018-09-27 16:56:45,295] INFO   109[main] - org.maze.main.MazeMain.main(MazeMain.java:64) - What is at the location: START
+[2018-09-27 16:56:45,298] INFO   112[main] - org.maze.main.MazeMain.main(MazeMain.java:66) - What is at the newlocation: START
+[2018-09-27 16:57:09,937]DEBUG     0[main] - org.maze.main.MazeMain.main(MazeMain.java:23) - The example maze in file Maze.txt should be initialized correctly
+[2018-09-27 16:57:09,943] INFO     6[main] - org.maze.main.MazeMain.main(MazeMain.java:32) - mazeStr: 
+XXXXXXXXXXXXXXX
+X             X
+X XXXXXXXXXXX X
+X XS        X X
+X XXXXXXXXX X X
+X XXXXXXXXX X X
+X XXXX      X X
+X XXXX XXXX X X
+X XXXX XXXX X X
+X X    XXXXXX X
+X X XXXXXXXXX X
+X X XXXXXXXXX X
+X X         X X
+X XXXXXXXXX   X
+XFXXXXXXXXXXXXX
+
+[2018-09-27 16:57:10,050] INFO   113[main] - org.maze.main.MazeMain.main(MazeMain.java:40) - Maze start location: MazeCoordinate{x=3, y=3}
+[2018-09-27 16:57:10,051] INFO   114[main] - org.maze.main.MazeMain.main(MazeMain.java:41) - No of walls: 149
+[2018-09-27 16:57:10,051] INFO   114[main] - org.maze.main.MazeMain.main(MazeMain.java:42) - No of empty spaces: 74
+[2018-09-27 16:57:10,051] INFO   114[main] - org.maze.main.MazeMain.main(MazeMain.java:43) - Maze Exit Location: MazeCoordinate{x=1, y=14}
+[2018-09-27 16:57:10,057] INFO   120[main] - org.maze.main.MazeMain.main(MazeMain.java:52) - What is at the coordinate(4,3): SPACE
+[2018-09-27 16:57:10,060] INFO   123[main] - org.maze.main.MazeMain.main(MazeMain.java:64) - What is at the location: START
+[2018-09-27 16:57:10,062] INFO   125[main] - org.maze.main.MazeMain.main(MazeMain.java:66) - What is at the newlocation: START
+[2018-09-27 17:00:26,631]DEBUG     0[main] - org.maze.main.MazeMain.main(MazeMain.java:23) - The example maze in file Maze.txt should be initialized correctly
+[2018-09-27 17:00:26,635] INFO     4[main] - org.maze.main.MazeMain.main(MazeMain.java:32) - mazeStr: 
+XXXXXXXXXXXXXXX
+X             X
+X XXXXXXXXXXX X
+X XS        X X
+X XXXXXXXXX X X
+X XXXXXXXXX X X
+X XXXX      X X
+X XXXX XXXX X X
+X XXXX XXXX X X
+X X    XXXXXX X
+X X XXXXXXXXX X
+X X XXXXXXXXX X
+X X         X X
+X XXXXXXXXX   X
+XFXXXXXXXXXXXXX
+
+[2018-09-27 17:00:26,730] INFO    99[main] - org.maze.main.MazeMain.main(MazeMain.java:40) - Maze start location: MazeCoordinate{x=3, y=3}
+[2018-09-27 17:00:26,730] INFO    99[main] - org.maze.main.MazeMain.main(MazeMain.java:41) - No of walls: 149
+[2018-09-27 17:00:26,730] INFO    99[main] - org.maze.main.MazeMain.main(MazeMain.java:42) - No of empty spaces: 74
+[2018-09-27 17:00:26,731] INFO   100[main] - org.maze.main.MazeMain.main(MazeMain.java:43) - Maze Exit Location: MazeCoordinate{x=1, y=14}
+[2018-09-27 17:00:26,735] INFO   104[main] - org.maze.main.MazeMain.main(MazeMain.java:52) - What is at the coordinate(4,3): SPACE
+[2018-09-27 17:00:26,738] INFO   107[main] - org.maze.main.MazeMain.main(MazeMain.java:64) - What is at the location: START
+[2018-09-27 17:00:26,740] INFO   109[main] - org.maze.main.MazeMain.main(MazeMain.java:66) - What is at the newlocation: START
+[2018-09-27 17:00:26,742] INFO   111[main] - org.maze.main.MazeMain.main(MazeMain.java:94) - movementSize: 34
+[2018-09-27 17:08:22,326]DEBUG     0[main] - org.maze.main.MazeMain.main(MazeMain.java:31) - The example maze in file Maze.txt should be initialized correctly
+[2018-09-27 17:08:22,330] INFO     4[main] - org.maze.main.MazeMain.main(MazeMain.java:40) - mazeStr: 
+XXXXXXXXXXXXXXX
+X             X
+X XXXXXXXXXXX X
+X XS        X X
+X XXXXXXXXX X X
+X XXXXXXXXX X X
+X XXXX      X X
+X XXXX XXXX X X
+X XXXX XXXX X X
+X X    XXXXXX X
+X X XXXXXXXXX X
+X X XXXXXXXXX X
+X X         X X
+X XXXXXXXXX   X
+XFXXXXXXXXXXXXX
+
+[2018-09-27 17:08:22,424] INFO    98[main] - org.maze.main.MazeMain.main(MazeMain.java:48) - Maze start location: MazeCoordinate{x=3, y=3}
+[2018-09-27 17:08:22,424] INFO    98[main] - org.maze.main.MazeMain.main(MazeMain.java:49) - No of walls: 149
+[2018-09-27 17:08:22,425] INFO    99[main] - org.maze.main.MazeMain.main(MazeMain.java:50) - No of empty spaces: 74
+[2018-09-27 17:08:22,425] INFO    99[main] - org.maze.main.MazeMain.main(MazeMain.java:51) - Maze Exit Location: MazeCoordinate{x=1, y=14}
+[2018-09-27 17:08:22,430] INFO   104[main] - org.maze.main.MazeMain.main(MazeMain.java:60) - What is at the coordinate(4,3): SPACE
+[2018-09-27 17:26:07,851]DEBUG     0[main] - org.maze.main.MazeMain.main(MazeMain.java:31) - The example maze in file Maze.txt should be initialized correctly
+[2018-09-27 17:26:07,857] INFO     6[main] - org.maze.main.MazeMain.main(MazeMain.java:40) - mazeStr: 
+XXXXXXXXXXXXXXX
+X             X
+X XXXXXXXXXXX X
+X XS        X X
+X XXXXXXXXX X X
+X XXXXXXXXX X X
+X XXXX      X X
+X XXXX XXXX X X
+X XXXX XXXX X X
+X X    XXXXXX X
+X X XXXXXXXXX X
+X X XXXXXXXXX X
+X X         X X
+X XXXXXXXXX   X
+XFXXXXXXXXXXXXX
+
+[2018-09-27 17:26:07,954] INFO   103[main] - org.maze.main.MazeMain.main(MazeMain.java:48) - Maze start location: MazeCoordinate{x=3, y=3}
+[2018-09-27 17:26:07,954] INFO   103[main] - org.maze.main.MazeMain.main(MazeMain.java:49) - No of walls: 149
+[2018-09-27 17:26:07,954] INFO   103[main] - org.maze.main.MazeMain.main(MazeMain.java:50) - No of empty spaces: 74
+[2018-09-27 17:26:07,955] INFO   104[main] - org.maze.main.MazeMain.main(MazeMain.java:51) - Maze Exit Location: MazeCoordinate{x=1, y=14}
+[2018-09-27 17:26:07,960] INFO   109[main] - org.maze.main.MazeMain.main(MazeMain.java:60) - What is at the coordinate(4,3): SPACE
+[2018-09-27 17:26:07,964] INFO   113[main] - org.maze.main.MazeMain.exploreMaze(MazeMain.java:121) - What is at the location: START
+[2018-09-27 17:26:07,967] INFO   116[main] - org.maze.main.MazeMain.exploreMaze(MazeMain.java:122) - explorer.getPosition() ExplorerPosition{coordinate=MazeCoordinate{x=3, y=3}, direction=UP}
+[2018-09-27 17:26:07,967] INFO   116[main] - org.maze.main.MazeMain.exploreMaze(MazeMain.java:124) - What is at the newlocation: START
+[2018-09-27 17:26:07,969] INFO   118[main] - org.maze.main.MazeMain.exploreMaze(MazeMain.java:152) - movementSize: 34
